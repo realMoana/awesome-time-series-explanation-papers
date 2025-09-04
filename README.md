@@ -57,13 +57,17 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 8. FLEXtime: Filterbank learning to explain time series [[link]](https://arxiv.org/pdf/2411.05841)
 
-9. Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [[link]](https://arxiv.org/pdf/2503.01013)
+9. TF-LIME : Interpretation Method for Time-Series Models Based on Time–Frequency Features [[link]](https://www.mdpi.com/1424-8220/25/9/2845)
 
-10. TF-LIME : Interpretation Method for Time-Series Models Based on Time–Frequency Features [[link]](https://www.mdpi.com/1424-8220/25/9/2845)
+10. On the Necessity of Multi-Domain Explanation: An Uncertainty Principle Approach for Deep Time Series Models [[link]](https://arxiv.org/pdf/2506.03267) 
 
-11. On the Necessity of Multi-Domain Explanation: An Uncertainty Principle Approach for Deep Time Series Models [[link]](https://arxiv.org/pdf/2506.03267) 
+11. Implet: A Post-hoc Subsequence Explainer for Time Series Models [[link]](https://arxiv.org/pdf/2505.08748)
 
-12. Implet: A Post-hoc Subsequence Explainer for Time Series Models [[link]](https://arxiv.org/pdf/2505.08748)
+12. Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [[link]](https://arxiv.org/pdf/2503.01013)
+
+13. [AAAI 25]TimeCAP: : Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents [[link]](https://arxiv.org/pdf/2502.11418)
+
+14. Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement [[link]](https://arxiv.org/pdf/2503.01875)
 
 ### 2024
 
@@ -100,6 +104,8 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 6. CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps [[link]](https://ieeexplore.ieee.org/abstract/document/10386229)
 
 7. Explainable AI for Time Series via Virtual Inspection Layers [[link]](https://arxiv.org/pdf/2303.06365)
+
+8. Temporal Data Meets LLM-Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
 
 ### 2022
 
