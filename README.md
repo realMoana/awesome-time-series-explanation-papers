@@ -69,6 +69,8 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 14. Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement [[link]](https://arxiv.org/pdf/2503.01875)
 
+15. Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs [[link]](https://arxiv.org/pdf/2508.09904v1) 
+
 ### 2024
 
 1. [ICLR 24]Explaining Time Series via Contrastive and Locally Sparse Perturbations [[link]](https://openreview.net/pdf?id=qDdSRaOiyb)
@@ -106,6 +108,8 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 7. Explainable AI for Time Series via Virtual Inspection Layers [[link]](https://arxiv.org/pdf/2303.06365)
 
 8. Temporal Data Meets LLM-Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
+
+9. [NIPS 23]Large Language Models Are Zero-Shot Time Series Forecasters [[link]](https://arxiv.org/pdf/2310.07820)
 
 ### 2022
 
