@@ -85,11 +85,9 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 6. Sub-SpaCE: Subsequence-Based Sparse Counterfactual Explanations for Time Series Classification Problems [[link]](https://link.springer.com/chapter/10.1007/978-3-031-63800-8_1)
 
-7. ShapTime: A General XAI Approach for Explainable Time Series Forecasting [[link]](https://link.springer.com/chapter/10.1007/978-3-031-47721-8_45)
+7. IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models [[link]](https://pdfs.semanticscholar.org/72f6/873b03f8ec549011dfca3dc4ae7a7adc7451.pdf)
 
-8. IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models [[link]](https://pdfs.semanticscholar.org/72f6/873b03f8ec549011dfca3dc4ae7a7adc7451.pdf)
-
-9. Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
+8. Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
 
 ### 2023
 
@@ -105,11 +103,13 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 6. CELS: Counterfactual Explanations for Time Series Data via Learned Saliency Maps [[link]](https://ieeexplore.ieee.org/abstract/document/10386229)
 
-7. Explainable AI for Time Series via Virtual Inspection Layers [[link]](https://arxiv.org/pdf/2303.06365)
+7. ShapTime: A General XAI Approach for Explainable Time Series Forecasting [[link]](https://link.springer.com/chapter/10.1007/978-3-031-47721-8_45)
 
-8. Temporal Data Meets LLM-Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
+8. Explainable AI for Time Series via Virtual Inspection Layers [[link]](https://arxiv.org/pdf/2303.06365)
 
-9. [NIPS 23]Large Language Models Are Zero-Shot Time Series Forecasters [[link]](https://arxiv.org/pdf/2310.07820)
+9. Temporal Data Meets LLM-Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
+
+10. [NIPS 23]Large Language Models Are Zero-Shot Time Series Forecasters [[link]](https://arxiv.org/pdf/2310.07820)
 
 ### 2022
 
