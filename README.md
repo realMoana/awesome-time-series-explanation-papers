@@ -19,6 +19,8 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
+<!-- 5 Surveys, 63 papers -->
+
 ## 📘Surveys
 
 ### 2023
@@ -53,23 +55,19 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 6. [ICML Workshop 25]DeltaSHAP: Explaining Prediction Evolutions in Online Patient Monitoring with Shapley Values [[link]](https://arxiv.org/pdf/2507.02342)
 
-7. Explanation Space: A New Perspective into Time Series Interpretability [[link]](https://arxiv.org/pdf/2409.01354)
+7. TF-LIME: Interpretation Method for Time-Series Models Based on Time–Frequency Features [[link]](https://www.mdpi.com/1424-8220/25/9/2845)
 
-8. FLEXtime: Filterbank learning to explain time series [[link]](https://arxiv.org/pdf/2411.05841)
+8. On the Necessity of Multi-Domain Explanation: An Uncertainty Principle Approach for Deep Time Series Models [[link]](https://arxiv.org/pdf/2506.03267) 
 
-9. TF-LIME : Interpretation Method for Time-Series Models Based on Time–Frequency Features [[link]](https://www.mdpi.com/1424-8220/25/9/2845)
+9. Implet: A Post-hoc Subsequence Explainer for Time Series Models [[link]](https://arxiv.org/pdf/2505.08748)
 
-10. On the Necessity of Multi-Domain Explanation: An Uncertainty Principle Approach for Deep Time Series Models [[link]](https://arxiv.org/pdf/2506.03267) 
+10. Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [[link]](https://arxiv.org/pdf/2503.01013)
 
-11. Implet: A Post-hoc Subsequence Explainer for Time Series Models [[link]](https://arxiv.org/pdf/2505.08748)
+11. [AAAI 25]TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents [[link]](https://arxiv.org/pdf/2502.11418)
 
-12. Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [[link]](https://arxiv.org/pdf/2503.01013)
+12. Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement [[link]](https://arxiv.org/pdf/2503.01875)
 
-13. [AAAI 25]TimeCAP: : Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents [[link]](https://arxiv.org/pdf/2502.11418)
-
-14. Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement [[link]](https://arxiv.org/pdf/2503.01875)
-
-15. Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs [[link]](https://arxiv.org/pdf/2508.09904v1) 
+13. Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs [[link]](https://arxiv.org/pdf/2508.09904v1) 
 
 ### 2024
 
@@ -88,6 +86,11 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 7. IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models [[link]](https://pdfs.semanticscholar.org/72f6/873b03f8ec549011dfca3dc4ae7a7adc7451.pdf)
 
 8. Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
+
+9. Explanation Space: A New Perspective into Time Series Interpretability [[link]](https://arxiv.org/pdf/2409.01354)
+
+10. FLEXtime: Filterbank learning to explain time series [[link]](https://arxiv.org/pdf/2411.05841)
+
 
 ### 2023
 
