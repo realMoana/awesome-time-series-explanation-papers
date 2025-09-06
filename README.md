@@ -134,6 +134,8 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 9. Motif-guided time series counterfactual explanations [[link]](https://arxiv.org/pdf/2211.04411)
 
+10. [TKDE]Explainable tensorized neural ordinary differential equations for arbitrary-step time series prediction [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=97578120)
+
 ### 2021
 
 1. [ICML 21]Explaining time series predictions with dynamic masks [[link]](https://arxiv.org/pdf/2106.05303)
