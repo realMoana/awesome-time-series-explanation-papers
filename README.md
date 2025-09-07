@@ -19,7 +19,7 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 5 Surveys, 63 papers -->
+<!-- 5 Surveys, 79 papers -->
 
 ## 📘Surveys
 
@@ -154,6 +154,14 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 8. Multi-modal prototype learning for interpretable multivariable time series classification [[link]](https://arxiv.org/pdf/2106.09636)
 
+9. Tsinsight: A local-global attribution framework for interpretability in time series data [[link]](https://www.mdpi.com/1424-8220/21/21/7373)
+
+10. Deep fuzzy cognitive maps for interpretable multivariate time series prediction [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9132654)
+
+11. Explainable multivariate time series classification: a deep neural network which learns to attend to important variables as well as time intervals [[link]](https://dl.acm.org/doi/pdf/10.1145/3437963.3441815)
+
+12. Interpreting internal activation patterns in deep temporal neural networks by finding prototypes [[link]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467346)
+
 ### 2020
 
 1. [NIPS 20]Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
@@ -170,6 +178,13 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 7. Series Saliency: Temporal Interpretation for Multivariate Time Series Forecasting [[link]](https://arxiv.org/abs/2012.09324)
 
+8. Tapnet: Multivariate time series classification with attentional prototypical network (https://ojs.aaai.org/index.php/AAAI/article/view/6165)
+
+9. Interpretable time-series classification on few-shot samples (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206860)
+
+10. Adversarial dynamic shapelet networks (https://ojs.aaai.org/index.php/AAAI/article/view/5948)
+
+
 ### 2019&before
 
 1. [ICML 19]Exploring Interpretable LSTM Neural Networks over Multi-Variable Data [[link]](https://arxiv.org/pdf/1905.12034)
@@ -180,6 +195,23 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 4. Explaining Deep Classification of Time-Series Data with Learned Prototypes [[link]](https://arxiv.org/pdf/1904.08935)
 
-5. [ICML 17]Learning important features through propagating activation differences [[link]](https://arxiv.org/pdf/1704.02685)
+5. Interpretable time series classification using linear models and multi-resolution multi-domain symbolic representations [[link]](https://link.springer.com/article/10.1007/s10618-019-00633-3)
 
-6. [NIPS 16]Retain: An interpretable predictive model for healthcare using reverse time attention mechanism [[link]](https://arxiv.org/abs/1608.05745)
+6. Multilevel wavelet decomposition network for interpretable time series analysis (https://dl.acm.org/doi/pdf/10.1145/3219819.3220060)
+
+7. Efficient learning interpretable shapelets for accurate time series classification (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509273)
+
+8. [ICML 17]Learning important features through propagating activation differences [[link]](https://arxiv.org/pdf/1704.02685)
+
+9. [NIPS 16]Retain: An interpretable predictive model for healthcare using reverse time attention mechanism [[link]](https://arxiv.org/abs/1608.05745)
+
+10. [KDD 14]Learning time-series shapelets [[link]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623613)
+
+11. [ICDM 13]Sax-vsm: Interpretable time series classification using sax and vector space model [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6729617)
+
+12. [KDD 12]A shapelet transform for time series classification. [[link]](https://dl.acm.org/doi/pdf/10.1145/2339530.2339579)
+
+13. [KDD 11]Logical-shapelets: an expressive primitive for time series classification[[link]](https://dl.acm.org/doi/pdf/10.1145/2020408.2020587)
+
+14. Time series shapelets: a novel technique that allows accurate, interpretable and fast classification[[link]](https://link.springer.com/content/pdf/10.1007/s10618-010-0179-5.pdf)
+
