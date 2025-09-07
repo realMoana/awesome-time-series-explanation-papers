@@ -178,11 +178,11 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 7. Series Saliency: Temporal Interpretation for Multivariate Time Series Forecasting [[link]](https://arxiv.org/abs/2012.09324)
 
-8. Tapnet: Multivariate time series classification with attentional prototypical network (https://ojs.aaai.org/index.php/AAAI/article/view/6165)
+8. Tapnet: Multivariate time series classification with attentional prototypical network [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/6165)
 
-9. Interpretable time-series classification on few-shot samples (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206860)
+9. Interpretable time-series classification on few-shot samples [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206860)
 
-10. Adversarial dynamic shapelet networks (https://ojs.aaai.org/index.php/AAAI/article/view/5948)
+10. Adversarial dynamic shapelet networks [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/5948)
 
 
 ### 2019&before
@@ -197,9 +197,9 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 5. Interpretable time series classification using linear models and multi-resolution multi-domain symbolic representations [[link]](https://link.springer.com/article/10.1007/s10618-019-00633-3)
 
-6. Multilevel wavelet decomposition network for interpretable time series analysis (https://dl.acm.org/doi/pdf/10.1145/3219819.3220060)
+6. Multilevel wavelet decomposition network for interpretable time series analysis [[link]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220060)
 
-7. Efficient learning interpretable shapelets for accurate time series classification (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509273)
+7. Efficient learning interpretable shapelets for accurate time series classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509273)
 
 8. [ICML 17]Learning important features through propagating activation differences [[link]](https://arxiv.org/pdf/1704.02685)
 
