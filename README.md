@@ -10,6 +10,7 @@ If you like our project, please give it a star ⭐ to show your support！
 
 ## 🔖Table of Contents
 - [Surveys](#Surveys)
+- [Benchmark](#Benchmark)
 - [Papers](#Papers)
   - [2025](#2025)
   - [2024](#2024)
@@ -19,27 +20,27 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 5 Surveys, 79 papers -->
+<!-- 5 Surveys, 2 benchmark, 77 papers -->
 
-## 📘Surveys
+## Surveys
 
-### 2023
+[2023] Interpretation of Time-Series Deep Models: A Survey [[link]](https://arxiv.org/pdf/2305.14582) 
 
-Interpretation of Time-Series Deep Models: A Survey [[link]](https://arxiv.org/pdf/2305.14582) 
+[2022] Explainable AI for Time Series Classification: A review, taxonomy and research directions [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895252)
 
-### 2022
+[2022] Post Hoc Explainability for Time Series Classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810094)
 
-Explainable AI for Time Series Classification: A review, taxonomy and research directions [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895252)
+[2022] Counterfactual explanations and how to find them: literature review and benchmarking [[link]](https://link.springer.com/content/pdf/10.1007/s10618-022-00831-6.pdf)
 
-Post Hoc Explainability for Time Series Classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810094)
+[2021] Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]](https://arxiv.org/pdf/2104.00950)
 
-Counterfactual explanations and how to find them: literature review and benchmarking [[link]](https://link.springer.com/content/pdf/10.1007/s10618-022-00831-6.pdf)
+## Benchmark
 
-### 2021
+[2024] Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
 
-Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]](https://arxiv.org/pdf/2104.00950)
+[2020]Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
 
-## 📜Papers
+## Papers
 
 ### 2025
 
@@ -85,11 +86,9 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 7. IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models [[link]](https://pdfs.semanticscholar.org/72f6/873b03f8ec549011dfca3dc4ae7a7adc7451.pdf)
 
-8. Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
+8. Explanation Space: A New Perspective into Time Series Interpretability [[link]](https://arxiv.org/pdf/2409.01354)
 
-9. Explanation Space: A New Perspective into Time Series Interpretability [[link]](https://arxiv.org/pdf/2409.01354)
-
-10. FLEXtime: Filterbank learning to explain time series [[link]](https://arxiv.org/pdf/2411.05841)
+9. FLEXtime: Filterbank learning to explain time series [[link]](https://arxiv.org/pdf/2411.05841)
 
 
 ### 2023
@@ -164,25 +163,23 @@ Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]]
 
 ### 2020
 
-1. [NIPS 20]Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
+1. [ICLR 20]N-BEATS: Neural basis expansion analysis for interpretable time series forecasting [[link]](https://arxiv.org/pdf/1905.10437)
 
-2. [ICLR 20]N-BEATS: Neural basis expansion analysis for interpretable time series forecasting [[link]](https://arxiv.org/pdf/1905.10437)
+2. [NIPS 20] What went wrong and when? Instance-wise feature importance for time-series black-box models [[link]](https://arxiv.org/pdf/2003.02821)
 
-3. [NIPS 20] What went wrong and when? Instance-wise feature importance for time-series black-box models [[link]](https://arxiv.org/pdf/2003.02821)
+3. [KDD 20]Preserving dynamic attention for long-term spatial-temporal prediction [[link]](https://arxiv.org/pdf/2006.08849)
 
-4. [KDD 20]Preserving dynamic attention for long-term spatial-temporal prediction [[link]](https://arxiv.org/pdf/2006.08849)
+4. Explaining Any Time Series Classifier [[link]](https://ieeexplore.ieee.org/document/9319285)
 
-5. Explaining Any Time Series Classifier [[link]](https://ieeexplore.ieee.org/document/9319285)
+5. Interpretable Multivariate Time Series Forecasting with Temporal Attention Convolutional Neural Networks [[link]](https://ieeexplore.ieee.org/document/9308570)
 
-6. Interpretable Multivariate Time Series Forecasting with Temporal Attention Convolutional Neural Networks [[link]](https://ieeexplore.ieee.org/document/9308570)
+6. Series Saliency: Temporal Interpretation for Multivariate Time Series Forecasting [[link]](https://arxiv.org/abs/2012.09324)
 
-7. Series Saliency: Temporal Interpretation for Multivariate Time Series Forecasting [[link]](https://arxiv.org/abs/2012.09324)
+7. Tapnet: Multivariate time series classification with attentional prototypical network [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/6165)
 
-8. Tapnet: Multivariate time series classification with attentional prototypical network [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/6165)
+8. Interpretable time-series classification on few-shot samples [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206860)
 
-9. Interpretable time-series classification on few-shot samples [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9206860)
-
-10. Adversarial dynamic shapelet networks [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/5948)
+9. Adversarial dynamic shapelet networks [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/5948)
 
 
 ### 2019&before
