@@ -161,6 +161,9 @@ If you like our project, please give it a star ⭐ to show your support！
 
 12. Interpreting internal activation patterns in deep temporal neural networks by finding prototypes [[link]](https://dl.acm.org/doi/pdf/10.1145/3447548.3467346)
 
+13. Learning Time Series Counterfactuals via Latent Space Representations [[link]](https://link.springer.com/chapter/10.1007/978-3-030-88942-5_29)
+
+
 ### 2020
 
 1. [ICLR 20]N-BEATS: Neural basis expansion analysis for interpretable time series forecasting [[link]](https://arxiv.org/pdf/1905.10437)
@@ -181,6 +184,7 @@ If you like our project, please give it a star ⭐ to show your support！
 
 9. Adversarial dynamic shapelet networks [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/5948)
 
+10. Locally and globally explainable time series tweaking [[link]](https://link.springer.com/article/10.1007/s10115-019-01389-4)
 
 ### 2019&before
 
