@@ -211,9 +211,9 @@ If you like our project, please give it a star ⭐ to show your support！
 
 11. [ICDM 13]Sax-vsm: Interpretable time series classification using sax and vector space model [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6729617)
 
-12. [KDD 12]A shapelet transform for time series classification. [[link]](https://dl.acm.org/doi/pdf/10.1145/2339530.2339579)
+12. [KDD 12]A shapelet transform for time series classification [[link]](https://dl.acm.org/doi/pdf/10.1145/2339530.2339579)
 
-13. [KDD 11]Logical-shapelets: an expressive primitive for time series classification[[link]](https://dl.acm.org/doi/pdf/10.1145/2020408.2020587)
+13. [KDD 11]Logical-shapelets: an expressive primitive for time series classification [[link]](https://dl.acm.org/doi/pdf/10.1145/2020408.2020587)
 
-14. Time series shapelets: a novel technique that allows accurate, interpretable and fast classification[[link]](https://link.springer.com/content/pdf/10.1007/s10618-010-0179-5.pdf)
+14. Time series shapelets: a novel technique that allows accurate, interpretable and fast classification [[link]](https://link.springer.com/content/pdf/10.1007/s10618-010-0179-5.pdf)
 
