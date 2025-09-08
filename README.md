@@ -199,9 +199,9 @@ If you like our project, please give it a star ⭐ to show your support！
 
 5. Interpretable time series classification using linear models and multi-resolution multi-domain symbolic representations [[link]](https://link.springer.com/article/10.1007/s10618-019-00633-3)
 
-6. Multilevel wavelet decomposition network for interpretable time series analysis [[link]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220060)
+6. [KDD 18]Multilevel wavelet decomposition network for interpretable time series analysis [[link]](https://dl.acm.org/doi/pdf/10.1145/3219819.3220060)
 
-7. Efficient learning interpretable shapelets for accurate time series classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509273)
+7. [ICDE 18]Efficient learning interpretable shapelets for accurate time series classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509273)
 
 8. [ICML 17]Learning important features through propagating activation differences [[link]](https://arxiv.org/pdf/1704.02685)
 
