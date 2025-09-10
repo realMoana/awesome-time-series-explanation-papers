@@ -20,7 +20,7 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 5 Surveys, 2 benchmark, 80 papers -->
+<!-- 5 Surveys, 2 benchmark, 79 papers -->
 
 ## Surveys
 
@@ -128,13 +128,13 @@ If you like our project, please give it a star ⭐ to show your support！
 
 6. PIP: pictorial interpretable prototype learning for time series classification [[link]](https://arxiv.org/pdf/2408.12666)
 
-7. [ICMLA 22]Temporal rule-based counterfactual explanations for multivariate time series [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10069254)
+<!-- 7. [ICMLA 22]Temporal rule-based counterfactual explanations for multivariate time series [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10069254) same with 4 --> 
 
-8. [ICMLA 22]TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10069160)
+7. [ICMLA 22]TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10069160)
 
-9. Motif-guided time series counterfactual explanations [[link]](https://arxiv.org/pdf/2211.04411)
+8. Motif-guided time series counterfactual explanations [[link]](https://arxiv.org/pdf/2211.04411)
 
-10. [TKDE]Explainable tensorized neural ordinary differential equations for arbitrary-step time series prediction [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=97578120)
+9. [TKDE]Explainable tensorized neural ordinary differential equations for arbitrary-step time series prediction [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=97578120)
 
 ### 2021
 
