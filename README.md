@@ -126,15 +126,13 @@ If you like our project, please give it a star ⭐ to show your support！
 
 5. XEM: An Explainable-by-Design Ensemble Method for Multivariate Time Series Classification [[link]](https://arxiv.org/pdf/2005.03645)
 
-6. PIP: pictorial interpretable prototype learning for time series classification [[link]](https://arxiv.org/pdf/2408.12666)
-
 <!-- 7. [ICMLA 22]Temporal rule-based counterfactual explanations for multivariate time series [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10069254) same with 4 --> 
 
-7. [ICMLA 22]TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10069160)
+6. [ICMLA 22]TSEvo: Evolutionary Counterfactual Explanations for Time Series Classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10069160)
 
-8. Motif-guided time series counterfactual explanations [[link]](https://arxiv.org/pdf/2211.04411)
+7. Motif-guided time series counterfactual explanations [[link]](https://arxiv.org/pdf/2211.04411)
 
-9. [TKDE]Explainable tensorized neural ordinary differential equations for arbitrary-step time series prediction [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=97578120)
+8. [TKDE]Explainable tensorized neural ordinary differential equations for arbitrary-step time series prediction [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=97578120)
 
 ### 2021
 
