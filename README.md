@@ -20,7 +20,7 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 5 Surveys, 2 benchmark, 78 papers -->
+<!-- 5 Surveys, 2 benchmark, 81 papers -->
 
 ## Surveys
 
@@ -70,6 +70,10 @@ If you like our project, please give it a star ⭐ to show your support！
 
 13. Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs [[link]](https://arxiv.org/pdf/2508.09904v1) 
 
+14. Enhancing LLM Reasoning for Time Series Classification by Tailored Thinking and Fused Decision [[link]](https://arxiv.org/pdf/2506.00807)
+
+15. PA-RNet: Perturbation-Aware Reasoning Network for Multimodal Time Series Forecasting [[link]](https://arxiv.org/pdf/2508.04750)
+
 ### 2024
 
 1. [ICLR 24]Explaining Time Series via Contrastive and Locally Sparse Perturbations [[link]](https://openreview.net/pdf?id=qDdSRaOiyb)
@@ -90,7 +94,7 @@ If you like our project, please give it a star ⭐ to show your support！
 
 9. FLEXtime: Filterbank learning to explain time series [[link]](https://arxiv.org/pdf/2411.05841)
 
-10. [NIPS 23]Basisformer: Attention-based time series forecasting with learnable and interpretable basis [[link]](https://arxiv.org/pdf/2310.20496)
+10. [NIPS 24]From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection [[link]](https://arxiv.org/pdf/2409.17515)
 
 ### 2023
 
@@ -113,6 +117,8 @@ If you like our project, please give it a star ⭐ to show your support！
 9. Temporal Data Meets LLM-Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
 
 10. [NIPS 23]Large Language Models Are Zero-Shot Time Series Forecasters [[link]](https://arxiv.org/pdf/2310.07820)
+
+11. [NIPS 23]Basisformer: Attention-based time series forecasting with learnable and interpretable basis [[link]](https://arxiv.org/pdf/2310.20496)
 
 ### 2022
 
