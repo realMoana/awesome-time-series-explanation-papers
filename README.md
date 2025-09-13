@@ -20,7 +20,7 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 5 Surveys, 2 benchmark, 80 papers -->
+<!-- 5 Surveys, 2 benchmark, 79 papers -->
 
 ## Surveys
 
@@ -71,8 +71,6 @@ If you like our project, please give it a star ⭐ to show your support！
 13. Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs [[link]](https://arxiv.org/pdf/2508.09904v1) 
 
 14. Enhancing LLM Reasoning for Time Series Classification by Tailored Thinking and Fused Decision [[link]](https://arxiv.org/pdf/2506.00807)
-
-15. PA-RNet: Perturbation-Aware Reasoning Network for Multimodal Time Series Forecasting [[link]](https://arxiv.org/pdf/2508.04750)
 
 ### 2024
 
