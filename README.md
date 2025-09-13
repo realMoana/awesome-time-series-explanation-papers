@@ -20,7 +20,7 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 5 Surveys, 2 benchmark, 81 papers -->
+<!-- 5 Surveys, 2 benchmark, 80 papers -->
 
 ## Surveys
 
@@ -93,8 +93,6 @@ If you like our project, please give it a star ⭐ to show your support！
 8. Explanation Space: A New Perspective into Time Series Interpretability [[link]](https://arxiv.org/pdf/2409.01354)
 
 9. FLEXtime: Filterbank learning to explain time series [[link]](https://arxiv.org/pdf/2411.05841)
-
-10. [NIPS 24]From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection [[link]](https://arxiv.org/pdf/2409.17515)
 
 ### 2023
 
