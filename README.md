@@ -20,7 +20,7 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 5 Surveys, 2 benchmark, 79 papers -->
+<!-- 5 Surveys, 2 benchmark, 78 papers -->
 
 ## Surveys
 
@@ -203,17 +203,15 @@ If you like our project, please give it a star ⭐ to show your support！
 
 7. [ICDE 18]Efficient learning interpretable shapelets for accurate time series classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8509273)
 
-8. [ICML 17]Learning important features through propagating activation differences [[link]](https://arxiv.org/pdf/1704.02685)
+8. [NIPS 16]Retain: An interpretable predictive model for healthcare using reverse time attention mechanism [[link]](https://arxiv.org/abs/1608.05745)
 
-9. [NIPS 16]Retain: An interpretable predictive model for healthcare using reverse time attention mechanism [[link]](https://arxiv.org/abs/1608.05745)
+9. [KDD 14]Learning time-series shapelets [[link]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623613)
 
-10. [KDD 14]Learning time-series shapelets [[link]](https://dl.acm.org/doi/pdf/10.1145/2623330.2623613)
+10. [ICDM 13]Sax-vsm: Interpretable time series classification using sax and vector space model [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6729617)
 
-11. [ICDM 13]Sax-vsm: Interpretable time series classification using sax and vector space model [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6729617)
+11. [KDD 12]A shapelet transform for time series classification [[link]](https://dl.acm.org/doi/pdf/10.1145/2339530.2339579)
 
-12. [KDD 12]A shapelet transform for time series classification [[link]](https://dl.acm.org/doi/pdf/10.1145/2339530.2339579)
+12. [KDD 11]Logical-shapelets: an expressive primitive for time series classification [[link]](https://dl.acm.org/doi/pdf/10.1145/2020408.2020587)
 
-13. [KDD 11]Logical-shapelets: an expressive primitive for time series classification [[link]](https://dl.acm.org/doi/pdf/10.1145/2020408.2020587)
-
-14. Time series shapelets: a novel technique that allows accurate, interpretable and fast classification [[link]](https://link.springer.com/content/pdf/10.1007/s10618-010-0179-5.pdf)
+13. Time series shapelets: a novel technique that allows accurate, interpretable and fast classification [[link]](https://link.springer.com/content/pdf/10.1007/s10618-010-0179-5.pdf)
 
