@@ -20,7 +20,7 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 5 Surveys, 2 benchmark, 77 papers -->
+<!-- 5 Surveys, 3 benchmark, 76 papers -->
 
 ## Surveys
 
@@ -36,9 +36,11 @@ If you like our project, please give it a star ⭐ to show your support！
 
 ## Benchmark
 
-1. [2024] Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
+1. [2024] Explanation Space: A New Perspective into Time Series Interpretability [[link]](https://arxiv.org/pdf/2409.01354)
 
-2. [2020]Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
+2. [2024] Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
+
+3. [2020] Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
 
 ## Papers
 
@@ -88,9 +90,7 @@ If you like our project, please give it a star ⭐ to show your support！
 
 7. IndMask: Inductive Explanation for Multivariate Time Series Black-Box Models [[link]](https://pdfs.semanticscholar.org/72f6/873b03f8ec549011dfca3dc4ae7a7adc7451.pdf)
 
-8. Explanation Space: A New Perspective into Time Series Interpretability [[link]](https://arxiv.org/pdf/2409.01354)
-
-9. FLEXtime: Filterbank learning to explain time series [[link]](https://arxiv.org/pdf/2411.05841)
+8. FLEXtime: Filterbank learning to explain time series [[link]](https://arxiv.org/pdf/2411.05841)
 
 ### 2023
 
