@@ -11,6 +11,7 @@ If you like our project, please give it a star ⭐ to show your support！
 ## 🔖Table of Contents
 - [Surveys](#Surveys)
 - [Benchmark](#Benchmark)
+- [Evaluation](#Evaluation)
 - [Papers](#Papers)
   - [2025](#2025)
   - [2024](#2024)
@@ -20,7 +21,7 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 5 Surveys, 3 benchmark, 76 papers -->
+<!-- 5 Surveys, 2 benchmarks, 2 evaluation, 75 papers -->
 
 ## Surveys
 
@@ -40,7 +41,12 @@ If you like our project, please give it a star ⭐ to show your support！
 
 2. [2024] Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
 
-3. [2020] Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
+
+## Evaluation
+
+1. [2025] On the Necessity of Multi-Domain Explanation: An Uncertainty Principle Approach for Deep Time Series Models [[link]](https://arxiv.org/pdf/2506.03267) 
+
+2. [2020] Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
 
 ## Papers
 
@@ -60,19 +66,17 @@ If you like our project, please give it a star ⭐ to show your support！
 
 7. TF-LIME: Interpretation Method for Time-Series Models Based on Time–Frequency Features [[link]](https://www.mdpi.com/1424-8220/25/9/2845)
 
-8. On the Necessity of Multi-Domain Explanation: An Uncertainty Principle Approach for Deep Time Series Models [[link]](https://arxiv.org/pdf/2506.03267) 
+8. Implet: A Post-hoc Subsequence Explainer for Time Series Models [[link]](https://arxiv.org/pdf/2505.08748)
 
-9. Implet: A Post-hoc Subsequence Explainer for Time Series Models [[link]](https://arxiv.org/pdf/2505.08748)
+9. Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [[link]](https://arxiv.org/pdf/2503.01013)
 
-10. Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [[link]](https://arxiv.org/pdf/2503.01013)
+10. [AAAI 25]TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents [[link]](https://arxiv.org/pdf/2502.11418)
 
-11. [AAAI 25]TimeCAP: Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents [[link]](https://arxiv.org/pdf/2502.11418)
+11. Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement [[link]](https://arxiv.org/pdf/2503.01875)
 
-12. Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement [[link]](https://arxiv.org/pdf/2503.01875)
+12. Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs [[link]](https://arxiv.org/pdf/2508.09904v1) 
 
-13. Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs [[link]](https://arxiv.org/pdf/2508.09904v1) 
-
-14. Enhancing LLM Reasoning for Time Series Classification by Tailored Thinking and Fused Decision [[link]](https://arxiv.org/pdf/2506.00807)
+13. Enhancing LLM Reasoning for Time Series Classification by Tailored Thinking and Fused Decision [[link]](https://arxiv.org/pdf/2506.00807)
 
 ### 2024
 
