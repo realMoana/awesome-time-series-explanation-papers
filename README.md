@@ -103,6 +103,9 @@ If you like our project, please give it a star ⭐ to show your support！
 
 8. FLEXtime: Filterbank learning to explain time series [[link]](https://arxiv.org/pdf/2411.05841)
 
+9. Z‑Time: efficient and effective interpretable multivariate time series classification [[link]](https://link.springer.com/article/10.1007/s10618-023-00969-x)
+
+
 ### 2023
 
 1. [ICLR 23]Temporal Dependencies in Feature Importance for Time Series Prediction [[link]](https://arxiv.org/pdf/2107.14317)
@@ -123,9 +126,7 @@ If you like our project, please give it a star ⭐ to show your support！
 
 9. Temporal Data Meets LLM-Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
 
-10. [NIPS 23]Large Language Models Are Zero-Shot Time Series Forecasters [[link]](https://arxiv.org/pdf/2310.07820)
-
-11. [NIPS 23]Basisformer: Attention-based time series forecasting with learnable and interpretable basis [[link]](https://arxiv.org/pdf/2310.20496)
+10. [NIPS 23]Basisformer: Attention-based time series forecasting with learnable and interpretable basis [[link]](https://arxiv.org/pdf/2310.20496)
 
 ### 2022
 
