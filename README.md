@@ -90,15 +90,15 @@ If you like our project, please give it a star ⭐ to show your support！
 
 17. [ICML 25]FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting [[link]](https://openreview.net/pdf?id=oyoiHf51es)
 
-18. [2024] XForecast: Evaluating Natural Language Explanations for Time Series Forecasting  [[link]](https://arxiv.org/pdf/2410.14180)
+18. [2025] AXIS: Explainable Time Series Anomaly Detection with Large Language Models [[link]](https://arxiv.org/pdf/2509.24378) 
 
-19. [2024] Towards explainable traffic flow prediction with large language models [[link]](https://www.sciencedirect.com/science/article/pii/S2772424724000337)
+19. [2024] XForecast: Evaluating Natural Language Explanations for Time Series Forecasting  [[link]](https://arxiv.org/pdf/2410.14180)
 
-20. [2023] Temporal Data Meets LLM - Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
+20. [2024] Towards explainable traffic flow prediction with large language models [[link]](https://www.sciencedirect.com/science/article/pii/S2772424724000337)
 
-21. [NIPS workshop 23] JoLT: Jointly Learned Representations of Language and Time-Series [[link]](https://openreview.net/pdf?id=UVF1AMBj9u)
+21. [2023] Temporal Data Meets LLM - Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
 
-22. [2025] AXIS: Explainable Time Series Anomaly Detection with Large Language Models [[link]](https://arxiv.org/pdf/2509.24378) 
+22. [NIPS workshop 23] JoLT: Jointly Learned Representations of Language and Time-Series [[link]](https://openreview.net/pdf?id=UVF1AMBj9u)
 
 
 ### 2025
