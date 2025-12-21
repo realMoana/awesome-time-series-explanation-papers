@@ -4,14 +4,14 @@ A curated list of papers on **time series explanation / interpretability**.
 
 This repository aims to help researchers and practitioners quickly navigate the growing literature in this field.
 
-We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us🤗.
+We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us 🤗.
 
 If you like our project, please give it a star ⭐ to show your support！
 
 ## 🔖Table of Contents
 - [Surveys](#Surveys)
-- [Benchmark](#Benchmark)
-- [Evaluation](#Evaluation)
+- [Benchmarks](#Benchmarks)
+- [Evaluations](#Evaluations)
 - [Papers](#Papers)
   - [LLM](#LLM)
   - [2025](#2025)
@@ -38,13 +38,13 @@ If you like our project, please give it a star ⭐ to show your support！
 
 6. [2021] Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]](https://arxiv.org/pdf/2104.00950)
 
-## Benchmark
+## Benchmarks
 
 1. [2024] Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
 
 2. [2020] Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
 
-## Evaluation
+## Evaluations
 
 1. [2025] On the Necessity of Multi-Domain Explanation: An Uncertainty Principle Approach for Deep Time Series Models [[link]](https://arxiv.org/pdf/2506.03267) 
 
