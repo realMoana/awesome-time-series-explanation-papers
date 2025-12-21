@@ -22,7 +22,7 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 6 Surveys, 2 benchmarks, 3 evaluation, 118 papers -->
+<!-- 6 Surveys, 2 benchmarks, 3 evaluation, 121 papers -->
 
 ## Surveys
 
@@ -144,6 +144,13 @@ If you like our project, please give it a star ⭐ to show your support！
 20. [NIPS 25] Structured Temporal Causality for Interpretable Multivariate Time Series Anomaly Detection [[link]](https://neurips.cc/virtual/2025/poster/117720)
 
 21. ProtoTS: Learning Hierarchical Prototypes for Explainable Time Series Forecasting [[link]](https://arxiv.org/pdf/2509.23159)
+
+22. When, How Long and How Much? Interpretable Neural Networks for Time Series Regression by Learning to Mask and Aggregate [[link]](https://arxiv.org/pdf/2512.03578)
+
+23. A Self-explainable Model of Long Time Series by Extracting Informative Structured Causal Patterns [[link]](https://arxiv.org/pdf/2512.01412)
+
+24. Delta-XAI: A Unified Framework for Explaining Prediction Changes in Online Time Series Monitoring [[link]](https://arxiv.org/pdf/2511.23036)
+
 
 ### 2024
 
