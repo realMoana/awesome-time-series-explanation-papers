@@ -2,6 +2,8 @@
 
 A curated list of papers on **time series explanation / interpretability**. 
 
+We also released our survey [Paper](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens). 
+
 This repository aims to help researchers and practitioners quickly navigate the growing literature in this field.
 
 We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us 🤗.
@@ -9,6 +11,7 @@ We will try our best to make this paper list updated. If you notice some related
 If you like our project, please give it a star ⭐ to show your support！
 
 ## 🔖Table of Contents
+- [News](#News)
 - [Surveys](#Surveys)
 - [Benchmarks](#Benchmarks)
 - [Evaluations](#Evaluations)
@@ -22,21 +25,26 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 6 Surveys, 2 benchmarks, 3 evaluation, 121 papers -->
+<!-- 7 Surveys, 2 benchmarks, 3 evaluation, 121 papers -->
+
+## News
+- [x] [2026.01.02] We released [Paper](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens) and this GitHub repo.
 
 ## Surveys
 
-1. [2025] A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting [[link]](https://dl.acm.org/doi/pdf/10.1145/3729531)
+1. [2026] From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens [[link]](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens)
 
-2. [2023] Interpretation of Time-Series Deep Models: A Survey [[link]](https://arxiv.org/pdf/2305.14582) 
+2. [2025] A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting [[link]](https://dl.acm.org/doi/pdf/10.1145/3729531)
 
-3. [2022] Explainable AI for Time Series Classification: A review, taxonomy and research directions [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895252)
+3. [2023] Interpretation of Time-Series Deep Models: A Survey [[link]](https://arxiv.org/pdf/2305.14582) 
 
-4. [2022] Post Hoc Explainability for Time Series Classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810094)
+4. [2022] Explainable AI for Time Series Classification: A review, taxonomy and research directions [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9895252)
 
-5. [2022] Counterfactual explanations and how to find them: literature review and benchmarking [[link]](https://link.springer.com/content/pdf/10.1007/s10618-022-00831-6.pdf)
+5. [2022] Post Hoc Explainability for Time Series Classification [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9810094)
 
-6. [2021] Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]](https://arxiv.org/pdf/2104.00950)
+6. [2022] Counterfactual explanations and how to find them: literature review and benchmarking [[link]](https://link.springer.com/content/pdf/10.1007/s10618-022-00831-6.pdf)
+
+7. [2021] Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey [[link]](https://arxiv.org/pdf/2104.00950)
 
 ## Benchmarks
 
