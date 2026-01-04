@@ -4,7 +4,7 @@
 A curated and continuously updated collection of **time series explanation and interpretability** research, covering methods from low-level signal attribution to high-level semantic and LLM-based reasoning.
 
 📌 This repository accompanies our survey paper:  
-**[From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens)**. We organize time series explanation methods into four cognitive levels: **Signal-space**, **Pattern-space**, **Structural**, **Semantic**. Many papers span multiple levels, reflecting the growing trend toward integrated explanations.
+**[From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens)**. We organize time series explanation methods into four cognitive levels: **Signal-space**, **Pattern-space**, **Structural**, **Semantic**.
 
 ### 🔍 What makes this repository useful?
 - 📊 **Comprehensive coverage** of time series explainability across tasks such as forecasting, classification, anomaly detection, causality discovery, and open-ended reasoning
@@ -12,11 +12,11 @@ A curated and continuously updated collection of **time series explanation and i
 - 🤖 **Strong focus on emerging LLM-based semantic explanations**
 - 📚 **Curated datasets and benchmarks** for explanation evaluation
 
-### 🧭 How to use this repository
-- If you are new to the field, start with the **Surveys** section for a high-level overview.
-- If you are interested in **evaluation and benchmarking**, see the **Benchmarks** and **Evaluations** sections.
-- If you work on **LLM-based or semantic explanations**, check the **LLM/VLM/MLLM** category.
-- Papers are also organized chronologically to help track the **evolution of explainability methods** over time.
+### 🧭 How to use this repository?
+- If you are new to the field, start with the [Surveys](#surveys) section for a high-level overview.
+- If you are interested in **evaluation and benchmarking**, see the [Benchmarks](#benchmarks) and [Evaluations](#evaluations) sections.
+- If you work on **LLM-based or semantic explanations**, check the [LLM/VLM/MLLM](#llmvlmmllm) category.
+- Papers are also organized chronologically to help track the [evolution of explainability methods](#2025) over time.
 
 This repository is designed to help **researchers and practitioners quickly understand, compare, and navigate** the rapidly growing literature in time series explainability.
 
@@ -35,11 +35,11 @@ If you find this repository useful, please consider citing our survey:
 ``` -->
 
 ## 🔖Table of Contents
-- [News](#News)
-- [Surveys](#Surveys)
-- [Benchmarks](#Benchmarks)
-- [Evaluations](#Evaluations)
-- [Papers](#Papers)
+- [News](#news)
+- [Surveys](#surveys)
+- [Benchmarks](#benchmarks)
+- [Evaluations](#evaluations)
+- [Papers](#papers)
   - [LLM/VLM/MLLM](#llmvlmmllm)
   - [2025](#2025)
   - [2024](#2024)
