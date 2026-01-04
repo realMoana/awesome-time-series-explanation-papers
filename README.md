@@ -8,7 +8,9 @@ A curated and continuously updated collection of **time series explanation and i
 
 ![Structure overview](figures/framework.png)
 
-![Taxonomy](figures/Taxonomy.png)
+<!-- ![Taxonomy](figures/Taxonomy.png) -->
+
+<img src="figures/Taxonomy.png" width="500">
 
 ### 🔍 What makes this repository useful?
 - 📊 **Comprehensive coverage** of time series explainability across tasks such as forecasting, classification, anomaly detection, causality discovery, and open-ended reasoning
