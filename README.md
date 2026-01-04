@@ -17,7 +17,7 @@ If you like our project, please give it a star ⭐ to show your support！
 - [Benchmarks](#Benchmarks)
 - [Evaluations](#Evaluations)
 - [Papers](#Papers)
-  - [LLM/VLM/MLLM](#LLM/VLM/MLLM)
+  - [LLM/VLM/MLLM](#llmvlmmllm)
   - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
