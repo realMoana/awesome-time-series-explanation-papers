@@ -58,7 +58,7 @@ If you like our project, please give it a star ⭐ to show your support！
 
 2. [2024] Explanation Space: A New Perspective into Time Series Interpretability [[link]](https://arxiv.org/pdf/2409.01354)
 
-3. [2024] XForecast: Evaluating Natural Language Explanations for Time Series Forecasting  (https://arxiv.org/pdf/2410.14180)
+3. [2024] XForecast: Evaluating Natural Language Explanations for Time Series Forecasting [[link]](https://arxiv.org/pdf/2410.14180)
 
 ## Papers
 
