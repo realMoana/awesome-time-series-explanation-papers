@@ -17,7 +17,7 @@ If you like our project, please give it a star ⭐ to show your support！
 - [Benchmarks](#Benchmarks)
 - [Evaluations](#Evaluations)
 - [Papers](#Papers)
-  - [LLM](#LLM)
+  - [LLM/VLM/MLLM](#LLM/VLM/MLLM)
   - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
@@ -26,7 +26,7 @@ If you like our project, please give it a star ⭐ to show your support！
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 7 Surveys, 2 benchmarks, 3 evaluation, 121 papers -->
+<!-- 7 Surveys, 2 benchmarks, 3 evaluation, 125 papers -->
 
 ## News
 - [x] [2026.01.02] We released our [survey](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens) and this GitHub repo.
@@ -63,7 +63,7 @@ If you like our project, please give it a star ⭐ to show your support！
 
 ## Papers
 
-### LLM
+### LLM/VLM/MLLM
 
 1. [NIPS 25] Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [[link]](https://arxiv.org/pdf/2503.01013)
 
@@ -101,13 +101,17 @@ If you like our project, please give it a star ⭐ to show your support！
 
 18. [2025] AXIS: Explainable Time Series Anomaly Detection with Large Language Models [[link]](https://arxiv.org/pdf/2509.24378) 
 
-19. [2024] XForecast: Evaluating Natural Language Explanations for Time Series Forecasting  [[link]](https://arxiv.org/pdf/2410.14180)
+19. [2025] Toward Reasoning-Centric Time-Series Analysis [[link]](https://arxiv.org/pdf/2510.13029)
 
-20. [2024] Towards explainable traffic flow prediction with large language models [[link]](https://www.sciencedirect.com/science/article/pii/S2772424724000337)
+20. [2025] Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models [[link]](https://arxiv.org/pdf/2510.07858)
 
-21. [2023] Temporal Data Meets LLM - Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
+21. [2024] XForecast: Evaluating Natural Language Explanations for Time Series Forecasting  [[link]](https://arxiv.org/pdf/2410.14180)
 
-22. [NIPS workshop 23] JoLT: Jointly Learned Representations of Language and Time-Series [[link]](https://openreview.net/pdf?id=UVF1AMBj9u)
+22. [2024] Towards explainable traffic flow prediction with large language models [[link]](https://www.sciencedirect.com/science/article/pii/S2772424724000337)
+
+23. [2023] Temporal Data Meets LLM - Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
+
+24. [NIPS workshop 23] JoLT: Jointly Learned Representations of Language and Time-Series [[link]](https://openreview.net/pdf?id=UVF1AMBj9u)
 
 
 ### 2025
@@ -160,6 +164,13 @@ If you like our project, please give it a star ⭐ to show your support！
 
 24. Delta-XAI: A Unified Framework for Explaining Prediction Changes in Online Time Series Monitoring [[link]](https://arxiv.org/pdf/2511.23036)
 
+25. Toward Reasoning-Centric Time-Series Analysis [[link]](https://arxiv.org/pdf/2510.13029)
+
+26. Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models [[link]](https://arxiv.org/pdf/2510.07858)
+
+27. [AAAI 25] Temporal Concept Tracing: Making Deep Learning Predictions Interpretable and Actionable for ICU Acute Kidney Injury Prevention [[link]](https://ojs.aaai.org/index.php/AAAI-SS/article/view/36917)
+
+28. When, How Long and How Much? Interpretable Neural Networks for Time Series Regression by Learning to Mask and Aggregate [[link]](https://arxiv.org/pdf/2512.03578)
 
 ### 2024
 
