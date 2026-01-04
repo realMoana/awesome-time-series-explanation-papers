@@ -2,7 +2,7 @@
 
 A curated list of papers on **time series explanation / interpretability**. 
 
-We also released our survey [Paper](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens). 
+We also released our survey [From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens). 
 
 This repository aims to help researchers and practitioners quickly navigate the growing literature in this field.
 
@@ -28,7 +28,7 @@ If you like our project, please give it a star ⭐ to show your support！
 <!-- 7 Surveys, 2 benchmarks, 3 evaluation, 121 papers -->
 
 ## News
-- [x] [2026.01.02] We released [Paper](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens) and this GitHub repo.
+- [x] [2026.01.02] We released our [survey](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens) and this GitHub repo.
 
 ## Surveys
 
