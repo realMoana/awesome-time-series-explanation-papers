@@ -6,6 +6,10 @@ A curated and continuously updated collection of **time series explanation and i
 📌 This repository accompanies our survey paper:  
 **[From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens)**. We organize time series explanation methods into four cognitive levels: **Signal-space**, **Pattern-space**, **Structural**, **Semantic**.
 
+![Structure overview](figures/framework.png)
+
+![Taxonomy](figures/Taxonomy.png)
+
 ### 🔍 What makes this repository useful?
 - 📊 **Comprehensive coverage** of time series explainability across tasks such as forecasting, classification, anomaly detection, causality discovery, and open-ended reasoning
 - 🧠 **Human-cognitive perspective**, organizing methods by *signal-space, pattern-space, structural,* and *semantic* explanations
