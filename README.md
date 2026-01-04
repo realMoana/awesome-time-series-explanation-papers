@@ -1,15 +1,38 @@
-# 🚀 Awesome Time Series Explanation Papers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# 🚀 Awesome Time Series Explanation Papers
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+A curated and continuously updated collection of **time series explanation and interpretability** research, covering methods from low-level signal attribution to high-level semantic and LLM-based reasoning.
 
-A curated list of papers on **time series explanation / interpretability**. 
+📌 This repository accompanies our survey paper:  
+**[From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens)**. We organize time series explanation methods into four cognitive levels: **Signal-space**, **Pattern-space**, **Structural**, **Semantic**. Many papers span multiple levels, reflecting the growing trend toward integrated explanations.
 
-We also released our survey [From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens). 
+### 🔍 What makes this repository useful?
+- 📊 **Comprehensive coverage** of time series explainability across tasks such as forecasting, classification, anomaly detection, causality discovery, and open-ended reasoning
+- 🧠 **Human-cognitive perspective**, organizing methods by *signal-space, pattern-space, structural,* and *semantic* explanations
+- 🤖 **Strong focus on emerging LLM-based semantic explanations**
+- 📚 **Curated datasets and benchmarks** for explanation evaluation
 
-This repository aims to help researchers and practitioners quickly navigate the growing literature in this field.
+### 🧭 How to use this repository
+- If you are new to the field, start with the **Surveys** section for a high-level overview.
+- If you are interested in **evaluation and benchmarking**, see the **Benchmarks** and **Evaluations** sections.
+- If you work on **LLM-based or semantic explanations**, check the **LLM/VLM/MLLM** category.
+- Papers are also organized chronologically to help track the **evolution of explainability methods** over time.
 
-We will try our best to make this paper list updated. If you notice some related papers missing, do not hesitate to contact us 🤗.
+This repository is designed to help **researchers and practitioners quickly understand, compare, and navigate** the rapidly growing literature in time series explainability.
 
-If you like our project, please give it a star ⭐ to show your support！
+We actively maintain this list. If you notice missing or relevant papers, contributions and suggestions are very welcome!
+
+⭐ If you find this project useful, please consider giving it a star to support the work.
+
+## 📖 Citation
+If you find this repository useful, please consider citing our survey:
+<!-- ```bibtex
+@article{fromsignals2026,
+  title={From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens},
+  author={...},
+  year={2026}
+}
+``` -->
 
 ## 🔖Table of Contents
 - [News](#News)
@@ -64,6 +87,8 @@ If you like our project, please give it a star ⭐ to show your support！
 ## Papers
 
 ### LLM/VLM/MLLM
+
+> This category highlights recent efforts that leverage LLMs or multimodal models to provide **semantic, reasoning-based explanations** for time series, representing a shift from attribution-focused XAI to human-centric interpretation.
 
 1. [NIPS 25] Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [[link]](https://arxiv.org/pdf/2503.01013)
 
