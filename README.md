@@ -32,13 +32,16 @@ We actively maintain this list. If you notice missing or relevant papers, contri
 
 ## 📖 Citation
 If you find this repository useful, please consider citing our survey:
-<!-- ```bibtex
-@article{fromsignals2026,
+
+```bibtex
+@article{chen2026signals,
   title={From Signals to Semantics: A Survey on Time Series Explainability through a Human-Cognitive Lens},
-  author={...},
-  year={2026}
+  author={Chen, Zhuomin and Lucchesi, Gabriel and Dong, Qingkai and Zheng, Xu and Song, Dongjin and Wen, Qingsong and Cheng, Wei and Ni, Jingchao and Luo, Dongsheng},
+  journal={Authorea Preprints},
+  year={2026},
+  publisher={Authorea}
 }
-``` -->
+```
 
 ## 🔖Table of Contents
 - [News](#news)
