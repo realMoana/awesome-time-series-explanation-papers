@@ -1,5 +1,5 @@
 # 🚀 Awesome Time Series Explanation Papers
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [[时序人](https://mp.weixin.qq.com/s/Gi-X2uG5mnYOotUR4Qh2zg)] 
 
 A curated and continuously updated collection of **time series explanation and interpretability** research, covering methods from low-level signal attribution to high-level semantic and LLM-based reasoning.
 
