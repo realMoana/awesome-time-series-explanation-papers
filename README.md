@@ -48,6 +48,7 @@ If you find this repository useful, please consider citing our survey:
 - [Surveys](#surveys)
 - [Papers](#papers)
   - [LLM/VLM/MLLM](#llmvlmmllm)
+  - [2026](#2026)
   - [2025](#2025)
   - [2024](#2024)
   - [2023](#2023)
@@ -58,7 +59,7 @@ If you find this repository useful, please consider citing our survey:
 - [Benchmarks](#benchmarks)
 - [Evaluations](#evaluations)
 
-<!-- 7 Surveys, 2 benchmarks, 3 evaluation, 124 papers -->
+<!-- 7 Surveys, 2 benchmarks, 3 evaluation, 125 papers -->
 
 ## News
 - [x] [2026.01.02] We released our [survey](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens) and this GitHub repo.
@@ -85,54 +86,61 @@ If you find this repository useful, please consider citing our survey:
 
 > This category highlights recent efforts that leverage LLMs or multimodal models to provide **semantic, reasoning-based explanations** for time series, representing a shift from attribution-focused XAI to human-centric interpretation.
 
-1. [NIPS 25] Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [[link]](https://arxiv.org/pdf/2503.01013)
+1. [2026] LLM-Augmented Changepoint Detection: A Framework for Ensemble Detection and Automated Explanation [[link]](https://arxiv.org/pdf/2601.02957)
 
-2. [AAAI 25] TimeCAP:  Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents [[link]](https://arxiv.org/pdf/2502.11418)
+2. [NIPS 25] Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop [[link]](https://arxiv.org/pdf/2503.01013)
 
-3. [2025] Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement [[link]](https://arxiv.org/pdf/2503.01875)
+3. [AAAI 25] TimeCAP:  Learning to Contextualize, Augment, and Predict Time Series Events with Large Language Model Agents [[link]](https://arxiv.org/pdf/2502.11418)
 
-4. [2025] Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs [[link]](https://arxiv.org/pdf/2508.09904v1)
+4. [2025] Time-MQA: Time Series Multi-Task Question Answering with Context Enhancement [[link]](https://arxiv.org/pdf/2503.01875)
 
-5. [2025] Enhancing LLM Reasoning for Time Series Classification by Tailored Thinking and Fused Decision [[link]](https://arxiv.org/pdf/2506.00807)
+5. [2025] Beyond Naïve Prompting: Strategies for Improved Zero-shot Context-aided Forecasting with LLMs [[link]](https://arxiv.org/pdf/2508.09904v1)
 
-6. [NIPS 25] TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster [[link]](https://arxiv.org/pdf/2503.07649)
+6. [2025] Enhancing LLM Reasoning for Time Series Classification by Tailored Thinking and Fused Decision [[link]](https://arxiv.org/pdf/2506.00807)
 
-7. [KDD 25] Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection [[link]](https://arxiv.org/pdf/2405.15370)
+7. [NIPS 25] TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster [[link]](https://arxiv.org/pdf/2503.07649)
 
-8. [2025] Time-RA: Towards Time Series Reasoning for Anomaly with LLM Feedback [[link]](https://arxiv.org/pdf/2507.15066)
+8. [KDD 25] Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection [[link]](https://arxiv.org/pdf/2405.15370)
 
-9. [2025] GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images [[link]](https://arxiv.org/pdf/2503.06073)
+9. [2025] Time-RA: Towards Time Series Reasoning for Anomaly with LLM Feedback [[link]](https://arxiv.org/pdf/2507.15066)
 
-10. [2025] Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data [[link]](https://arxiv.org/pdf/2503.10883)
+10. [2025] GEM: Empowering MLLM for Grounded ECG Understanding with Time Series and Images [[link]](https://arxiv.org/pdf/2503.06073)
 
-11. [2025] Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting [[link]](https://arxiv.org/pdf/2505.24511)
+11. [2025] Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data [[link]](https://arxiv.org/pdf/2503.10883)
 
-12. [2025] Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs [[link]](https://arxiv.org/pdf/2506.10630)
+12. [2025] Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting [[link]](https://arxiv.org/pdf/2505.24511)
 
-13. [2025] ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents [[link]](https://arxiv.org/pdf/2508.04038)
+13. [2025] Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs [[link]](https://arxiv.org/pdf/2506.10630)
 
-14. [2025] TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning [[link]](https://arxiv.org/pdf/2506.13705)
+14. [2025] ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval Driven LLM Agents [[link]](https://arxiv.org/pdf/2508.04038)
 
-15. [ICLR 25] Can LLMs Serve As Time Series Anomaly Detectors? [[link]](https://arxiv.org/pdf/2408.03475)
+15. [2025] TimeMaster: Training Time-Series Multimodal LLMs to Reason via Reinforcement Learning [[link]](https://arxiv.org/pdf/2506.13705)
 
-16. [2025] STRATA-TS: Selective Knowledge Transfer for Urban Time Series Forecasting with Retrieval-Guided Reasoning [[link]](https://arxiv.org/pdf/2508.18635)
+16. [ICLR 25] Can LLMs Serve As Time Series Anomaly Detectors? [[link]](https://arxiv.org/pdf/2408.03475)
 
-17. [ICML 25]FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting [[link]](https://openreview.net/pdf?id=oyoiHf51es)
+17. [2025] STRATA-TS: Selective Knowledge Transfer for Urban Time Series Forecasting with Retrieval-Guided Reasoning [[link]](https://arxiv.org/pdf/2508.18635)
 
-18. [2025] AXIS: Explainable Time Series Anomaly Detection with Large Language Models [[link]](https://arxiv.org/pdf/2509.24378) 
+18. [ICML 25] FSTLLM: Spatio-Temporal LLM for Few Shot Time Series Forecasting [[link]](https://openreview.net/pdf?id=oyoiHf51es)
 
-19. [2025] Toward Reasoning-Centric Time-Series Analysis [[link]](https://arxiv.org/pdf/2510.13029)
+19. [2025] AXIS: Explainable Time Series Anomaly Detection with Large Language Models [[link]](https://arxiv.org/pdf/2509.24378) 
 
-20. [2025] Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models [[link]](https://arxiv.org/pdf/2510.07858)
+30. [2025] Toward Reasoning-Centric Time-Series Analysis [[link]](https://arxiv.org/pdf/2510.13029)
 
-21. [2024] XForecast: Evaluating Natural Language Explanations for Time Series Forecasting  [[link]](https://arxiv.org/pdf/2410.14180)
+22. [2025] Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models [[link]](https://arxiv.org/pdf/2510.07858)
 
-22. [2024] Towards explainable traffic flow prediction with large language models [[link]](https://www.sciencedirect.com/science/article/pii/S2772424724000337)
+23. [2024] XForecast: Evaluating Natural Language Explanations for Time Series Forecasting  [[link]](https://arxiv.org/pdf/2410.14180)
 
-23. [2023] Temporal Data Meets LLM - Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
+24. [2024] Towards explainable traffic flow prediction with large language models [[link]](https://www.sciencedirect.com/science/article/pii/S2772424724000337)
 
-24. [NIPS workshop 23] JoLT: Jointly Learned Representations of Language and Time-Series [[link]](https://openreview.net/pdf?id=UVF1AMBj9u)
+24. [2023] Temporal Data Meets LLM - Explainable Financial Time Series Forecasting [[link]](https://arxiv.org/pdf/2306.11025)
 
+25. [NIPS workshop 23] JoLT: Jointly Learned Representations of Language and Time-Series [[link]](https://openreview.net/pdf?id=UVF1AMBj9u)
+
+
+
+### 2026
+
+1. LLM-Augmented Changepoint Detection: A Framework for Ensemble Detection and Automated Explanation [[link]](https://arxiv.org/pdf/2601.02957)
 
 ### 2025
 
