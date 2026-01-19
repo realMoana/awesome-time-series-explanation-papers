@@ -374,7 +374,8 @@ If you find this repository useful, please consider citing our survey:
 
 2. [2020] Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
 
-**Table1. Summary of synthetic datasets.**
+<p align="center"><strong>Table 1. Summary of synthetic datasets</strong></p>
+
 | Data                  | Type                     | Task              | Explanation Level | Source                                                                                                                   |
 | --------------------- | ------------------------ | ----------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
 | WebTraffic            | Univariate Time Series   | Classification    | Signal-space      | [Link](https://github.com/JAEarly/MILTimeSeriesClassification)                                                           |
