@@ -58,7 +58,7 @@ If you find this repository useful, please consider citing our survey:
   - [2020](#2020)
   - [2019&before](#2019&before)
 
-<!-- 7 Surveys, 2 benchmarks, 3 evaluation, 125 papers -->
+<!-- 7 Surveys, 2 benchmarks, 3 evaluation, 124 papers -->
 
 ## News
 - [x] [2026.01.02] We released our [survey](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens) and this GitHub repo.
@@ -203,8 +203,6 @@ If you find this repository useful, please consider citing our survey:
 26. Augur: Modeling Covariate Causal Associations in Time Series via Large Language Models [[link]](https://arxiv.org/pdf/2510.07858)
 
 27. [AAAI 25] Temporal Concept Tracing: Making Deep Learning Predictions Interpretable and Actionable for ICU Acute Kidney Injury Prevention [[link]](https://ojs.aaai.org/index.php/AAAI-SS/article/view/36917)
-
-28. When, How Long and How Much? Interpretable Neural Networks for Time Series Regression by Learning to Mask and Aggregate [[link]](https://arxiv.org/pdf/2512.03578)
 
 ### 2024
 
