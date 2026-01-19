@@ -374,31 +374,31 @@ If you find this repository useful, please consider citing our survey:
 
 2. [2020] Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
 
-**Table1. Summary of synthetic datasets. Abbreviations: UTS = Univariate Time Series, MTS = Multivariate Time Series, C = Classification, R = Regression, A = Anomaly Detection, CD = Causal Discovery.**
-| Data                  | Type | Task | Explanation Level | Source                                                                                                                     |
-| --------------------- | ---- | ---- | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| WebTraffic            | UTS  | C    | Signal-space      | [Link](https://github.com/JAEarly/MILTimeSeriesClassification)                                                           |
-| FreqShapes            | UTS  | C    | Signal-space      | [Link](https://github.com/zichuan-liu/TimeXplusplus)                                                                     |
-| SeqComb-UV            | UTS  | C    | Signal-space      | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/65ea878cb90b440e8b4cd34fe0959914-Paper-Conference.pdf) |
-| Synthetic Traces      | UTS  | C    | Structural        | [Link](https://dl.acm.org/doi/pdf/10.1145/3365365.3382218)                                                               |
-| Switch-Feature        | MTS  | C    | Signal-space      | [Link](https://github.com/zichuan-liu/ContraLSP)                                                                         |
-| State                 | MTS  | C    | Signal-space      | [Link](https://github.com/zichuan-liu/ContraLSP)                                                                         |
-| Spike                 | MTS  | C    | Signal-space      | [Link](https://proceedings.neurips.cc/paper/2020/file/08fa43588c2571ade19bc0fa5936e028-Paper.pdf)                        |
-| Toy                   | MTS  | C    | Pattern-space     | [Link](https://proceedings.mlr.press/v202/yan23d/yan23d.pdf)                                                             |
-| SeqComb-MV            | MTS  | C    | Signal-space      | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/65ea878cb90b440e8b4cd34fe0959914-Paper-Conference.pdf) |
-| LowVar                | MTS  | C    | Signal-space      | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/65ea878cb90b440e8b4cd34fe0959914-Paper-Conference.pdf) |
-| Naval Surveillance    | MTS  | C    | Structural        | [Link](https://proceedings.mlr.press/v211/aasi23a/aasi23a.pdf)                                                           |
-| Urban Driving         | MTS  | C    | Structural        | [Link](https://proceedings.mlr.press/v211/aasi23a/aasi23a.pdf)                                                           |
-| Simulated Full Flight | MTS  | C    | Structural        | [Link](https://dl.acm.org/doi/pdf/10.1145/3340531.3412710)                                                               |
-| Rare-Time             | MTS  | R    | Signal-space      | [Link](https://github.com/JonathanCrabbe/Dynamask)                                                                       |
-| Rare-feature          | MTS  | R    | Signal-space      | [Link](https://github.com/sanatonek/time_series_explainability)                                                          |
-| Rare-Observation      | MTS  | R    | Signal-space      | [Link](https://github.com/zichuan-liu/ContraLSP)                                                                         |
-| Semantic Benchmark    | UTS  | A    | Semantic          | [Link](https://arxiv.org/pdf/2509.24378)                                                                                 |
-| Machine Benchmark     | UTS  | A    | Semantic          | [Link](https://arxiv.org/pdf/1905.06175)                                                                                 |
-| SKAB                  | MTS  | A    | Pattern-space     | [Link](https://arxiv.org/pdf/2203.11103)                                                                                 |
-| Lorenz 96             | MTS  | CD   | Structural        | [Link](https://github.com/lingbai-kong/CausalFormer)                                                                                                                        |
-| fMRI                  | MTS  | CD   | Structural        | [Link](https://github.com/lingbai-kong/CausalFormer)                                                                                                                        |
-| Netsim                | MTS  | CD   | Structural        | [Link](https://github.com/sakhanna/SRU_for_GCI/tree/master/data/netsim)                                                                                                                        |
+**Table1. Summary of synthetic datasets.**
+| Data                  | Type                     | Task              | Explanation Level | Source                                                                                                                   |
+| --------------------- | ------------------------ | ----------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| WebTraffic            | Univariate Time Series   | Classification    | Signal-space      | [Link](https://github.com/JAEarly/MILTimeSeriesClassification)                                                           |
+| FreqShapes            | Univariate Time Series   | Classification    | Signal-space      | [Link](https://github.com/zichuan-liu/TimeXplusplus)                                                                     |
+| SeqComb-UV            | Univariate Time Series   | Classification    | Signal-space      | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/65ea878cb90b440e8b4cd34fe0959914-Paper-Conference.pdf) |
+| Synthetic Traces      | Univariate Time Series   | Classification    | Structural        | [Link](https://dl.acm.org/doi/pdf/10.1145/3365365.3382218)                                                               |
+| Switch-Feature        | Multivariate Time Series | Classification    | Signal-space      | [Link](https://github.com/zichuan-liu/ContraLSP)                                                                         |
+| State                 | Multivariate Time Series | Classification    | Signal-space      | [Link](https://github.com/zichuan-liu/ContraLSP)                                                                         |
+| Spike                 | Multivariate Time Series | Classification    | Signal-space      | [Link](https://proceedings.neurips.cc/paper/2020/file/08fa43588c2571ade19bc0fa5936e028-Paper.pdf)                        |
+| Toy                   | Multivariate Time Series | Classification    | Pattern-space     | [Link](https://proceedings.mlr.press/v202/yan23d/yan23d.pdf)                                                             |
+| SeqComb-MV            | Multivariate Time Series | Classification    | Signal-space      | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/65ea878cb90b440e8b4cd34fe0959914-Paper-Conference.pdf) |
+| LowVar                | Multivariate Time Series | Classification    | Signal-space      | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/65ea878cb90b440e8b4cd34fe0959914-Paper-Conference.pdf) |
+| Naval Surveillance    | Multivariate Time Series | Classification    | Structural        | [Link](https://proceedings.mlr.press/v211/aasi23a/aasi23a.pdf)                                                           |
+| Urban Driving         | Multivariate Time Series | Classification    | Structural        | [Link](https://proceedings.mlr.press/v211/aasi23a/aasi23a.pdf)                                                           |
+| Simulated Full Flight | Multivariate Time Series | Classification    | Structural        | [Link](https://dl.acm.org/doi/pdf/10.1145/3340531.3412710)                                                               |
+| Rare-Time             | Multivariate Time Series | Regression        | Signal-space      | [Link](https://github.com/JonathanCrabbe/Dynamask)                                                                       |
+| Rare-feature          | Multivariate Time Series | Regression        | Signal-space      | [Link](https://github.com/sanatonek/time_series_explainability)                                                          |
+| Rare-Observation      | Multivariate Time Series | Regression        | Signal-space      | [Link](https://github.com/zichuan-liu/ContraLSP)                                                                         |
+| Semantic Benchmark    | Univariate Time Series   | Anomaly Detection | Semantic          | [Link](https://arxiv.org/pdf/2509.24378)                                                                                 |
+| Machine Benchmark     | Univariate Time Series   | Anomaly Detection | Semantic          | [Link](https://arxiv.org/pdf/1905.06175)                                                                                 |
+| SKAB                  | Multivariate Time Series | Anomaly Detection | Pattern-space     | [Link](https://arxiv.org/pdf/2203.11103)                                                                                 |
+| Lorenz 96             | Multivariate Time Series | Causal Discovery  | Structural        | [Link](https://github.com/lingbai-kong/CausalFormer)                                                                     |
+| fMRI                  | Multivariate Time Series | Causal Discovery  | Structural        | [Link](https://github.com/lingbai-kong/CausalFormer)                                                                     |
+| Netsim                | Multivariate Time Series | Causal Discovery  | Structural        | [Link](https://github.com/sakhanna/SRU_for_GCI/tree/master/data/netsim)                                                  |
 
 
 ## Evaluations
