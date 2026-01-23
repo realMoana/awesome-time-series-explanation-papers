@@ -59,7 +59,7 @@ If you find this repository useful, please consider citing our survey:
 - [Benchmarks](#benchmarks)
 - [Evaluations](#evaluations)
 
-<!-- 7 Surveys, 2 benchmarks, 3 evaluation, 125 papers -->
+<!-- 7 Surveys, 3 benchmarks, 3 evaluation, 125 papers -->
 
 ## News
 - [x] [2026.01.02] We released our [survey](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens) and this GitHub repo.
@@ -378,9 +378,11 @@ If you find this repository useful, please consider citing our survey:
 
 ## Benchmarks
 
-1. [2024] Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
+1. [2026] What If TSF: A Benchmark for Reframing Forecasting as Scenario-Guided Multimodal Forecasting [[link]](https://arxiv.org/pdf/2601.08509)
 
-2. [2020] Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
+2. [2024] Benchmarking Counterfactual Interpretability in Deep Learning Models for Time Series Classification [[link]](https://arxiv.org/pdf/2408.12666)
+
+3. [2020] Benchmarking Deep Learning Interpretability in Time Series Predictions [[link]](https://arxiv.org/pdf/2010.13924)
 
 <p align="center"><strong>Table 1. Summary of synthetic datasets</strong></p>
 
