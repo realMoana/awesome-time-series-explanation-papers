@@ -409,6 +409,92 @@ If you find this repository useful, please consider citing our survey:
 | fMRI                  | Multivariate Time Series | Causal Discovery  | Structural        | [Link](https://github.com/lingbai-kong/CausalFormer)                                                                     |
 | Netsim                | Multivariate Time Series | Causal Discovery  | Structural        | [Link](https://github.com/sakhanna/SRU_for_GCI/tree/master/data/netsim)                                                  |
 
+<p align="center"><strong>Table 2. Summary of real-world datasets</strong></p>
+
+| Domain | Data | Type | Task | Explanation Level | Link |
+|------|------|------|------|------------------|------|
+| Healthcare | MIMIC-III | Multivariate Time Series | Classification | Signal-space; Pattern-space | [Link](https://github.com/drumpt/TIMING) |
+| Healthcare | PhysioNet 2019 | Multivariate Time Series | Classification | Signal-space | [Link](https://github.com/AITRICS/DeltaSHAP) |
+| Healthcare | EHR | Multivariate Time Series | Classification | Signal-space | [Link](https://github.com/mp2893/retain?tab=readme-ov-file) |
+| Healthcare | Cough & Breath Audio | Multivariate Time Series | Classification | Structural | [Link](https://www.sciencedirect.com/science/article/pii/S0890540124000749) |
+| Healthcare | Respiratory Sound | Multivariate Time Series | Classification | Structural | [Link](https://www.sciencedirect.com/science/article/pii/S0890540124000749) |
+| Healthcare | SHHS | Multivariate Time Series | Classification | Pattern-space | [Link](https://proceedings.mlr.press/v202/yan23d/yan23d.pdf) |
+| Healthcare | MESA | Multivariate Time Series | Classification | Pattern-space | [Link](https://proceedings.mlr.press/v202/yan23d/yan23d.pdf) |
+| Healthcare | SOF | Multivariate Time Series | Classification | Pattern-space | [Link](https://proceedings.mlr.press/v202/yan23d/yan23d.pdf) |
+| Healthcare | Test-Positive | Multi-modal Time Series | Classification | Semantic | [Link](https://github.com/geon0325/TimeCAP) |
+| Healthcare | Mortality | Multi-modal Time Series | Classification | Semantic | [Link](https://github.com/geon0325/TimeCAP) |
+| Healthcare | VitalDB | Multivariate Time Series | Forecasting | Semantic | [Link](https://github.com/realwangjiahao/TimeReasoner) |
+| Healthcare | Illness | Multivariate Time Series | Forecasting | Pattern-space | [Link](https://github.com/nzl5116190/Basisformer) |
+| Healthcare | Mammography | Univariate Time Series | Anomaly Detection | Semantic | [Link](https://arxiv.org/pdf/1905.06175) |
+| Healthcare | ECG-Bench | Multi-modal Time Series | Anomaly Detection | Semantic | [Link](https://github.com/lanxiang1017/GEM) |
+| Healthcare | PTB-XL | Multi-modal Time Series | Question Answering | Semantic | [Link](https://springernature.figshare.com/articles/dataset/Metadata_record_for_PTB-XL_a_large_publicly_available_Electrocardiography_Dataset/12098055) |
+| Environment | EAM | Univariate Time Series | Classification | Structural | [Link](https://github.com/saramohammadinejad/learningSTL) |
+| Environment | Electricity | Multivariate Time Series | Classification | Signal-space; Pattern-space | [Link](https://github.com/nzl5116190/Basisformer) |
+| Environment | Wound Healing | Multivariate Time Series | Classification | Structural | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10027757) |
+| Environment | Solar Flare | Multivariate Time Series | Classification | Pattern-space | [Link](https://github.com/omarbahri/SETS) |
+| Environment | New York | Multi-modal Time Series | Classification | Semantic | [Link](https://github.com/geon0325/TimeCAP) |
+| Environment | PM2.5 | Multivariate Time Series | Forecasting | Signal-space | [Link](https://archive.ics.uci.edu/dataset/381/beijing+pm2+5+data) |
+| Environment | Air Quality | Multivariate Time Series | Forecasting | Signal-space; Structural | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9132654) |
+| Environment | Boiler | Multivariate Time Series | Forecasting | Signal-space | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/65ea878cb90b440e8b4cd34fe0959914-Paper-Conference.pdf) |
+| Environment | Energy | Multivariate Time Series | Forecasting | Signal-space | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9757812) |
+| Environment | FUZZ-IEEE | Multivariate Time Series | Forecasting | Structural | [Link](https://ieee-dataport.org/competitions/fuzz-ieee-competition-explainable-energy-prediction) |
+| Environment | Temperatures | Multivariate Time Series | Forecasting | Structural | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9132654) |
+| Environment | AQWan & AQShunyi | Multivariate Time Series | Forecasting | Semantic | [Link](https://github.com/lqzxt/Time-R1) |
+| Environment | Wind | Multivariate Time Series | Forecasting | Semantic | [Link](https://github.com/lqzxt/Time-R1) |
+| Environment | ECL | Multivariate Time Series | Forecasting | Semantic | [Link](https://github.com/JIANGYUE61610306/FSTLLM) |
+| Sensor | AudioMNIST | Univariate Time Series | Classification | Signal-space | [Link](https://github.com/soerenab/AudioMNIST) |
+| Sensor | SleepEDFx | Univariate Time Series | Classification | Signal-space | [Link](https://github.com/soerenab/AudioMNIST) |
+| Sensor | MIT-BIH | Univariate Time Series | Classification | Signal-space | [Link](https://github.com/soerenab/AudioMNIST) |
+| Sensor | PAM | Multivariate Time Series | Classification | Signal-space | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/65ea878cb90b440e8b4cd34fe0959914-Paper-Conference.pdf) |
+| Sensor | HAR | Multivariate Time Series | Classification | Signal-space; Pattern-space; Semantic | [Link](https://github.com/zechenli03/ZARA) |
+| Sensor | Robot Execution Failures | Multivariate Time Series | Classification | Structural | [Link](https://github.com/saramohammadinejad/learningSTL) |
+| Sensor | Petroleum Distillation | Multivariate Time Series | Forecasting | Structural | [Link](https://dl.acm.org/doi/pdf/10.1145/3447548.3467161) |
+| Sensor | Power | Multivariate Time Series | Forecasting | Structural | [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9132654) |
+| Sensor | SMD | Multivariate Time Series | Anomaly Detection | Pattern-space; Structural | [Link](https://arxiv.org/pdf/2203.11103) |
+| Sensor | SMAP | Multivariate Time Series | Anomaly Detection | Pattern-space | [Link](https://arxiv.org/pdf/2203.11103) |
+| Sensor | SWaT | Multivariate Time Series | Anomaly Detection | Structural | [Link](https://arxiv.org/pdf/2510.16511) |
+| Sensor | PSM | Multivariate Time Series | Anomaly Detection | Structural | [Link](https://arxiv.org/pdf/2510.16511) |
+| Sensor | NASA Shuttle | Multivariate Time Series | Anomaly Detection | Semantic | [Link](https://arxiv.org/pdf/1905.06175) |
+| Industry | Real-world Full Flight | Multivariate Time Series | Classification | Structural | [Link](https://dl.acm.org/doi/pdf/10.1145/3340531.3412710) |
+| Industry | ETT | Multivariate Time Series | Forecasting | Pattern-space; Semantic | [Link](https://github.com/nzl5116190/Basisformer) |
+| Industry | WSD | Univariate Time Series | Anomaly Detection | Semantic | [Link](https://github.com/LJunius/LLMAD) |
+| Industry | Industrial Data | Multivariate Time Series | Anomaly Detection | Pattern-space | [Link](https://arxiv.org/pdf/2501.02069) |
+| HPC | HPAS | Multivariate Time Series | Classification | Counterfactual | [Link](https://github.com/peaclab/CoMTE) |
+| HPC | Taxonomist | Multivariate Time Series | Classification | Pattern-space | [Link](https://github.com/peaclab/CoMTE) |
+| HPC | Cori | Multivariate Time Series | Classification | Pattern-space | [Link](https://github.com/peaclab/CoMTE) |
+| Finance | S&P 500 | Multivariate Time Series | Classification | Semantic | [Link](https://github.com/geon0325/TimeCAP) |
+| Finance | Nikkei 225 | Multivariate Time Series | Classification | Semantic | [Link](https://github.com/geon0325/TimeCAP) |
+| Finance | Raw Material | Multi-modal Time Series | Classification | Semantic | [Link](https://arxiv.org/pdf/2503.01013) |
+| Finance | M3 | Univariate Time Series | Forecasting | Pattern-space | [Link](https://github.com/ServiceNow/N-BEATS) |
+| Finance | M4 | Univariate Time Series | Forecasting | Pattern-space | [Link](https://github.com/ServiceNow/N-BEATS) |
+| Finance | NASDAQ | Multivariate Time Series | Forecasting | Signal-space; Semantic | [Link](https://github.com/lqzxt/Time-R1) |
+| Finance | Volatility | Multivariate Time Series | Forecasting | Signal-space | [Link](https://arxiv.org/pdf/1912.09363) |
+| Finance | Gold Price | Multivariate Time Series | Forecasting | Signal-space | [Link](https://link.springer.com/chapter/10.1007/978-3-031-47721-8_45) |
+| Finance | Tesla Stock | Multivariate Time Series | Forecasting | Signal-space | [Link](https://link.springer.com/chapter/10.1007/978-3-031-47721-8_45) |
+| Finance | Exchange | Multivariate Time Series | Forecasting | Signal-space; Pattern-space | [Link](https://github.com/nzl5116190/Basisformer) |
+| Finance | NASDAQ-100 | Multi-modal Time Series | Forecasting | Semantic | [Link](https://arxiv.org/pdf/2306.11025) |
+| Finance | KPI | Univariate Time Series | Anomaly Detection | Pattern-space; Semantic | [Link](https://github.com/LJunius/LLMAD) |
+| Finance | Yahoo | Univariate Time Series | Anomaly Detection | Pattern-space; Semantic | [Link](https://github.com/TheDatumOrg/TSB-UAD) |
+| Transportation | Linear System | Univariate Time Series | Classification | Structural | [Link](https://github.com/saramohammadinejad/learningSTL) |
+| Transportation | Cruise Control | Univariate Time Series | Classification | Structural | [Link](https://github.com/saramohammadinejad/learningSTL) |
+| Transportation | TOURISM | Univariate Time Series | Forecasting | Pattern-space | [Link](https://github.com/ServiceNow/N-BEATS) |
+| Transportation | Traffic | Multivariate Time Series | Forecasting | Pattern-space; Structural; Semantic | [Link](https://github.com/nzl5116190/Basisformer) |
+| Transportation | Nottingham | Multivariate Time Series | Forecasting | Semantic | [Link](https://github.com/JIANGYUE61610306/FSTLLM) |
+| Transportation | Singapore | Multivariate Time Series | Forecasting | Semantic | [Link](https://arxiv.org/pdf/2508.18635) |
+| Transportation | Glasgow | Multivariate Time Series | Forecasting | Semantic | [Link](https://arxiv.org/pdf/2508.18635) |
+| Transportation | CATraffic | Multi-modal Time Series | Forecasting | Semantic | [Link](https://www.sciencedirect.com/science/article/pii/S2772424724000337) |
+| Multi-domain | UCI Repository | Univariate Time Series | Classification | Structural | [Link](https://github.com/saramohammadinejad/learningSTL) |
+| Multi-domain | UCR Archive | Univariate Time Series | Classification | Signal-space; Pattern-space; Structural | [Link](https://proceedings.neurips.cc/paper_files/paper/2023/file/65ea878cb90b440e8b4cd34fe0959914-Paper-Conference.pdf) |
+| Multi-domain | UEA Archive | Multivariate Time Series | Classification | Pattern-space | [Link](https://ieeexplore.ieee.org/document/10069160) |
+| Multi-domain | TIMERBED | Multi-modal Time Series | Classification | Semantic | [Link](https://github.com/langfengQ/TimeMaster) |
+| Multi-domain | Darts | Univariate Time Series | Forecasting | Semantic | [Link](https://github.com/ngruver/llmtime) |
+| Multi-domain | Monash | Univariate Time Series | Forecasting | Semantic | [Link](https://github.com/ngruver/llmtime) |
+| Multi-domain | Informer | Multivariate Time Series | Forecasting | Semantic | [Link](https://github.com/ngruver/llmtime) |
+| Multi-domain | CiK | Multi-modal Time Series | Forecasting | Semantic | [Link](https://github.com/ServiceNow/context-is-key-forecasting) |
+| Multi-domain | TSQA | Uni/Multivariate Time Series | Multi-task (Classification, Forecasting, Anomaly Detection, Question Answering, etc.) | Semantic | [Link](https://huggingface.co/datasets/Time-MQA/TSQA) |
+| Multi-domain | RATs40K | Multi-modal Time Series | Anomaly Detection | Semantic | [Link](https://github.com/yyysjz1997/Time-RA) |
+| Multi-domain | TSB-UAD | Multi-modal Time Series | Anomaly Detection | Semantic | [Link](https://github.com/TheDatumOrg/TSB-UAD) |
+| Multi-domain | TS-Instruct QA Gold | Multi-modal Time Series | Question Answering | Semantic | [Link](https://arxiv.org/pdf/2503.10883) |
 
 ## Evaluations
 
