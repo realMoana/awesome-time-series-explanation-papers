@@ -86,9 +86,9 @@ If you find this repository useful, please consider citing our survey:
 
 > This category highlights recent efforts that leverage LLMs or multimodal models to provide **semantic, reasoning-based explanations** for time series, representing a shift from attribution-focused XAI to human-centric interpretation.
 
-1. [2026] TIMEOMNI-VL: Unified Models for Time Series Understanding and Generation [[link]] (https://arxiv.org/pdf/2602.17149)
+1. [2026] TIMEOMNI-VL: Unified Models for Time Series Understanding and Generation [[link]](https://arxiv.org/pdf/2602.17149)
 
-2. [ICLR 26] TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models [[link]] (https://arxiv.org/pdf/2509.24803)
+2. [ICLR 26] TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models [[link]](https://arxiv.org/pdf/2509.24803)
 
 3. [2026] LLM-Augmented Changepoint Detection: A Framework for Ensemble Detection and Automated Explanation [[link]](https://arxiv.org/pdf/2601.02957)
 
@@ -146,9 +146,9 @@ If you find this repository useful, please consider citing our survey:
 
 1. LLM-Augmented Changepoint Detection: A Framework for Ensemble Detection and Automated Explanation [[link]](https://arxiv.org/pdf/2601.02957)
 
-2. [2026] TIMEOMNI-VL: Unified Models for Time Series Understanding and Generation [[link]] (https://arxiv.org/pdf/2602.17149)
+2. [2026] TIMEOMNI-VL: Unified Models for Time Series Understanding and Generation [[link]](https://arxiv.org/pdf/2602.17149)
 
-3. [ICLR 26] TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models [[link]] (https://arxiv.org/pdf/2509.24803)
+3. [ICLR 26] TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models [[link]](https://arxiv.org/pdf/2509.24803)
 
 ### 2025
 
