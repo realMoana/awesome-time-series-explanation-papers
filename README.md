@@ -88,7 +88,7 @@ If you find this repository useful, please consider citing our survey:
 
 1. [ICML 26] Adaptive Time Series Reasoning via Segment Selection [[link]](https://arxiv.org/pdf/2602.18645)
 
-2. [ICML 26] Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time SeriesCaptioning [[link]](https://icml.cc/virtual/2026/poster/64438)
+2. [ICML 26] Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time Series Captioning [[link]](https://icml.cc/virtual/2026/poster/64438)
 
 3. [2026] TIMEOMNI-VL: Unified Models for Time Series Understanding and Generation [[link]](https://arxiv.org/pdf/2602.17149)
 
@@ -158,7 +158,7 @@ If you find this repository useful, please consider citing our survey:
 
 5. [ICML 26] Adaptive Time Series Reasoning via Segment Selection [[link]](https://arxiv.org/pdf/2602.18645)
 
-6. [ICML 26] Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time SeriesCaptioning [[link]](https://icml.cc/virtual/2026/poster/64438)
+6. [ICML 26] Words Towards Explainability: Caption Label-Free Learning via Dual Loop Agentic Time Series Captioning [[link]](https://icml.cc/virtual/2026/poster/64438)
 
 7. LLM-Augmented Changepoint Detection: A Framework for Ensemble Detection and Automated Explanation [[link]](https://arxiv.org/pdf/2601.02957)
 
