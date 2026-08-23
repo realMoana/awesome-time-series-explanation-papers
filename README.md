@@ -59,7 +59,7 @@ If you find this repository useful, please consider citing our survey:
 - [Benchmarks](#benchmarks)
 - [Evaluations](#evaluations)
 
-<!-- 7 Surveys, 4 benchmarks, 3 evaluation, 133 papers -->
+<!-- 7 Surveys, 4 benchmarks, 3 evaluation, 134 papers -->
 
 ## News
 - [x] [2026.01.02] We released our [survey](https://www.techrxiv.org/users/1011574/articles/1371688-from-signals-to-semantics-a-survey-on-time-series-explainability-through-a-human-cognitive-lens) and this GitHub repo.
@@ -165,6 +165,9 @@ If you find this repository useful, please consider citing our survey:
 8. TIMEOMNI-VL: Unified Models for Time Series Understanding and Generation [[link]](https://arxiv.org/pdf/2602.17149)
 
 9. [ICLR 26] TimeOmni-1: Incentivizing Complex Reasoning with Time Series in Large Language Models [[link]](https://arxiv.org/pdf/2509.24803)
+
+10. Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity [[link]](https://arxiv.org/pdf/2607.21573)
+
 
 ### 2025
 
